@@ -1,6 +1,6 @@
 # Contributing
 
-👋 Welcome to project_name! Thank you for showing interest in contributing to project_name, we would love to have your contribution. Below are some requirements for contributing. Please read carefully!
+👋 Welcome to gn! Thank you for showing interest in contributing to gn, we would love to have your contribution. Below are some requirements for contributing. Please read carefully!
 
 ## 🐛 Requesting Features/Reporting Bugs
 

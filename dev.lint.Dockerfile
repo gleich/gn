@@ -1,8 +1,8 @@
 FROM golangci/golangci-lint:v1.30.0
 
 # Meta data
-LABEL maintainer="project_author_email"
-LABEL description="project_description"
+LABEL maintainer="matthewgleich@gmail.com"
+LABEL description="💤 gn CLI for hack club slack"
 
 # Copying over all the files
 COPY . /usr/src/app
